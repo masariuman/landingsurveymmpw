@@ -35,7 +35,7 @@ class UserGdriveController extends Controller
             // dd("tidak terdaftar");
         } else {
             if ($checker->password === $request->password) {
-                return redirect('http://masariuman.com/');
+                return redirect($checker->url);
             } else {
                 return redirect('/')->with('stats', 'USERNAME ATAU PASSWORD SALAH');
                 // dd("salah pass");
