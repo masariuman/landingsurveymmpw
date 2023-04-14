@@ -8,11 +8,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="zxx">
 
 <head>
-	<title>Login Survey Penilaian Integritas</title>
+	<title>PERMINTAAN KELENGKAPAN DATA ASN</title>
 	<!-- Meta-Tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<meta name="keywords" content="Login Survey Penilaian Integritas">
+	<meta name="keywords" content="PERMINTAAN KELENGKAPAN DATA ASN">
 	<script>
 		addEventListener("load", function () {
 			setTimeout(hideURLbar, 0);
@@ -35,7 +35,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div id="particles-js"></div>
 	<!-- //particles -->
 	<div class="w3ls-pos">
-		<h1 style="color:#fff;">Login Survey Penilaian Integritas</h1>
+		<h1 style="color:#fff;">Login Permintaan Kelengkapan Data ASN</h1>
         <h1 style="color:#fff;">Kabupaten Mempawah</h1>
 		<div class="w3ls-login box">
 			<!-- form starts here -->
