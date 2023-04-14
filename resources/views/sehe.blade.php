@@ -35,7 +35,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div id="particles-js"></div>
 	<!-- //particles -->
 	<div class="w3ls-pos">
-		<h1 style="color:#fff;">Login Permintaan Kelengkapan Data ASN</h1>
+		<h1 style="color:#fff;">Permintaan Kelengkapan Data ASN</h1>
         <h1 style="color:#fff;">Kabupaten Mempawah</h1>
 		<div class="w3ls-login box">
 			<!-- form starts here -->
